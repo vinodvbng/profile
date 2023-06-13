@@ -1,0 +1,25 @@
+[
+  {
+    "name": "SJC INSTITUTE OF TECHNOLOGY",
+    "location": "Chickballapur, Karnataka",
+    "course": "Bachelor of Engineering",
+    "span": "2000 - 2004",
+    "specialization": "Electronics & Communication",
+    "score": "FCD"
+  },
+  {
+    "name": "Department of Pre-University Education",
+    "location": "Bengaluru, Karnataka",
+    "course": "Pre University Education",
+    "span": "1999-2000",
+    "specialization": "PCMB",
+    "score": "76 %"
+  },
+  {
+    "name": "Karnataka Secondary Education Examination Board",
+    "location": "Bengaluru, Karnataka",
+    "course": "S.S.L.C.",
+    "span": "1997-1998",
+    "score": "76 %"
+  }
+]

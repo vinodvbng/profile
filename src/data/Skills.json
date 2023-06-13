@@ -1,0 +1,21 @@
+{
+  "softSkills": [
+    "Communication",
+    "Creativity",
+    "Listening",
+    "Teamwork",
+    "Flexibility",
+    "Time management",
+    "Problem solving",
+    "Mentoring"
+  ],
+  "hardSkills": [
+    "Java/J2EE",
+    "Spring/Spring Boot",
+    "Restful API",
+    "Jsp, Servlets, JDBC",
+    "WEBWORKS, STRUTS 1X, STRUTS 2.X, ",
+    "Hibernate, Ibatis,EJB, DATAPOWER, BROADVISION",
+    "MYSQL, ORACLE, MONGODB,EJB, DATAPOWER, BROADVISION"
+  ]
+}
